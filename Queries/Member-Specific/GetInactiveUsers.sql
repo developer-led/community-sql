@@ -1,4 +1,4 @@
-/* Get number of inactive (those that do not post) users */
+/* Get number of inactive users (those that do not post) */
 
 SELECT
     users.id,
