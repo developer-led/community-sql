@@ -1,4 +1,4 @@
-/* Number of users' replies in a month */
+/* List users with their replies count in a month */
 
 SELECT u.username, count(p.id) AS "Total"
 FROM posts p, topics t, users u
