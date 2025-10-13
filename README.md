@@ -82,9 +82,9 @@ Those are [the queries](/Queries/Member-Specific) that will help you analyze spe
 
 All things devrel, communities, developer marketing and GTM. Up for a weekly read?
 
-<a href="https://developerled.substack.com/" title="Developer Led Substack">
-	<img src="/assets/SubstackSubscribe.png" alt="">
-</a>
+<p align="center">
+	<a href="https://developerled.substack.com/"><img src="/assets/SubstackSubscribe.png" alt=""></a>
+</p>
 
 <p align="center">
 	<a href="https://www.linkedin.com/company/developerled/"><img src="https://img.shields.io/static/v1?&color=000000&style=flat&logoColor=white&label=&message=LinkedIn&logo=linkedin" /></a>
