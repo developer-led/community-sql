@@ -1,3 +1,7 @@
+<p align="center">
+	<a href="https://developerled.substack.com/"><img src="/assets/CommunitySQLBanner.png" alt=""></a>
+</p>
+
 # Community SQL
 
 Are you a developer community engineer? Or maybe a developer communty lead? If you're using [Discourse](https://www.discourse.org/) as your community platform, like [OpenAI](https://community.openai.com/), [MongoDB](https://www.mongodb.com/community/forums/), [Cursor](https://forum.cursor.com/), [Cloudflare](https://community.cloudflare.com/) and many others, and at the same time you are on their *Business* or *Enterprise* [tier](https://www.discourse.org/pricing), you should better check out their **[Data Explorer](https://www.discourse.org/plugins/data-explorer)** plugin.
