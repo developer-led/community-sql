@@ -4,7 +4,7 @@ Thank you for contributuing to community-sql repo! Below you'll find some resour
 
 ## Essentials
 
-To ensure the contribution process is as smooth and friendly to everyone as possible, please follow our Code of Conduct.
+To ensure the contribution process is as smooth and friendly to everyone as possible, please follow our [Code of Conduct](https://github.com/developer-led/community-sql?tab=coc-ov-file).
 
 ## Issues
 

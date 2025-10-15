@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The main purpose of our Code of Conduct is to ensure the best possible experience to all people interacting and contributing to this repo. At the end of the day, we're all here to build and learn. W
+The main purpose of our Code of Conduct is to ensure the best possible experience to all people interacting and contributing to this repo. At the end of the day, we're all here to build and learn.
 
 ## Our Core Core Values
 
