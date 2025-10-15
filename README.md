@@ -8,7 +8,7 @@ Are you a developer community engineer? Or maybe a developer communty lead? If y
 
 ## One Step Backwards: Discourse Dashboard
 
-Discourse dashbaord is probably the thing that you're using now. One can ask then, *wait a minute, doesn't Discourse Dashboard provide me with all the essentials I need?*. 
+Discourse dashbaord is probably the thing that you're using now. One can ask then, *wait a minute, isn't the dashboard providing me with all the essentials I need?* 
 
 <a href="https://www.discourse.org/features" title="Discourse Features">
 	<img src="/assets/DiscourseDashboard.png" alt="">
