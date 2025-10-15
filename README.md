@@ -6,6 +6,16 @@
 
 Are you a developer community engineer? Or maybe a developer communty lead? If you're using [Discourse](https://www.discourse.org/) as your community platform, like [OpenAI](https://community.openai.com/), [MongoDB](https://www.mongodb.com/community/forums/), [Cursor](https://forum.cursor.com/), [Cloudflare](https://community.cloudflare.com/) and many others, and at the same time you are on their *Business* or *Enterprise* [tier](https://www.discourse.org/pricing), you should better check out their **[Data Explorer](https://www.discourse.org/plugins/data-explorer)** plugin.
 
+## One Step Backwards: Discourse Dashboard
+
+Discourse dashbaord is probably the thing that you're using now. One can ask then, *wait a minute, doesn't Discourse Dashboard provide me with all the essentials I need?*. 
+
+<a href="https://www.discourse.org/features" title="Discourse Features">
+	<img src="/assets/DiscourseDashboard.png" alt="">
+</a>
+
+It really provides you with a decent source of your most important high-level Discourse community health metrics, but with time you'll need more enhanced analytics capabilities that will allow you to understand the context in more detail.
+
 ## What is Discourse Data Explorer
 
 [Data Explorer](https://www.discourse.org/plugins/data-explorer) is basically a Discourse *plugin for running SQL queries against your database, allowing for instant stats reporting*. Those queries can be triggered manually via admin dashboard by your platform admin, or you can even build an automation for it and run a set of queries through an API from an external app. You basically turn on the plugin through your admin plugins page and then you can start creating them from scratch in the buil-in editor or import from a `json` file.
@@ -70,6 +80,7 @@ Those are [the queries](/Queries/Member-Specific) that will help you analyze spe
 | [Get Topics Solved But Not Closed](/Queries/Admin/GetTopicsSolvedButNotClosed.sql) | Provides a list of topics that have been solved but are not closed | 
 | [Get User Accounts Emails](/Queries/Admin/GetUsersAccountsEmails.sql) | Provides a list of users' accounts emails |
 
+## How to contribute or report bugs
 
 ## Where to find more info
 
