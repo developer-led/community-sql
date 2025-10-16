@@ -18,7 +18,7 @@ It really provides you with a decent source of your most important high-level Di
 
 ## What is Discourse Data Explorer
 
-[Data Explorer](https://www.discourse.org/plugins/data-explorer) is basically a Discourse *plugin for running SQL queries against your database, allowing for instant stats reporting*. Those queries can be triggered manually via admin dashboard by your platform admin, or you can even build an automation for it and run a set of queries through an API from an external app. You basically turn on the plugin through your admin plugins page and then you can start creating them from scratch in the buil-in editor or import from a `json` file.
+[Data Explorer](https://www.discourse.org/plugins/data-explorer) is basically a Discourse *plugin for running SQL queries against your database, allowing for instant stats reporting*. Those queries can be triggered manually via admin dashboard by your platform admin, or you can even build an automation for it and run a set of queries through an API from an external app. You basically turn on the plugin through your admin plugins page and then you can start creating them from scratch in the built-in editor or import from a `json` file.
 
 <a href="https://www.discourse.org/plugins/data-explorer" title="Discourse Data Explorer Plugin">
 	<img src="/assets/DataExplorer.png" alt="">
