@@ -10,8 +10,8 @@ This leaderboard is based on weighted average system that takes into account fol
 -- string :trunc = month
 
 WITH timeperiod AS (
-SELECT date_trunc(:trunc, CURRENT_TIMESTAMP - INTERVAL :interval) as start,
-       date_trunc(:trunc, CURRENT_TIMESTAMP) as end
+SELECT date_trunc(:trunc, CURRENT_TIMESTAMP - INTERVAL :interval) AS start,
+       date_trunc(:trunc, CURRENT_TIMESTAMP) AS end
 ),
 
 postsread AS (
@@ -42,8 +42,8 @@ SELECT ua.user_id,
 ),
 
 likes AS (
-SELECT post_actions.user_id as given_by_user_id,
-       posts.user_id as received_by_user_id
+SELECT post_actions.user_id AS given_by_user_id,
+       posts.user_id AS received_by_user_id
   FROM timeperiod, post_actions
   LEFT JOIN posts
   ON post_actions.post_id = posts.id
@@ -66,7 +66,7 @@ SELECT email, user_id
 ),
 
 replies AS (
-SELECT posts.user_id, count(posts.id) as replies
+SELECT posts.user_id, count(posts.id) AS replies
   FROM posts, timeperiod, postsread
   WHERE posts.post_type = 1
         AND posts.post_number > 1
