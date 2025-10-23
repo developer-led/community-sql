@@ -17,5 +17,3 @@ Please share if you run the query yourself and what Discourse version you are us
 - [ ] I have run and performed a self-review of my own code
 - [ ] I have commented my code, particularly in hard-to-understand areas
 - [ ] I have made corresponding changes to the documentation (README)
-
-@yoimkonrad 👀
