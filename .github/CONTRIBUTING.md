@@ -1,6 +1,6 @@
 # Contributing
 
-Thank you for contributuing to community-sql repo! Below you'll find some resources to get you started.
+Thank you for contributing to community-sql repo! Below you'll find some resources to get you started.
 
 ## Essentials
 
